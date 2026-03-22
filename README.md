@@ -19,7 +19,7 @@ The Task: Design a single-channel, wearable Analog Front-End (AFE) that isolates
 **Phase1**: Simulation Instructions are attached, the Phase 1 Submission should involve output of the test mentioned , along with a report on the designed circuit justifying component choice.
 **Phase2**: The Spice models will be tested with instantaneous testbenches on the location , the detailed presentation with simulation results and PCB layout to be presented in front of the Judges.
 
-## [The Solution to Phase 1](Phase1/Report.pdf)
+## [The Solution to Phase 1](Phase1/report.pdf)
 
 ## The Solution to Phase 2
 too much efforts for completing and documenting the second part alone so just sharing the file. basically creating the whole schematic of the Phase 1 onto a PCB
